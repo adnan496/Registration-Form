@@ -5,7 +5,7 @@ import DataInputs from './DataInputs';
 
 function App() {
   return (
-    <div  >
+    <div >
 
       
          
@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App;
+
